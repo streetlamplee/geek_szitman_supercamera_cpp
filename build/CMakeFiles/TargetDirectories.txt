@@ -1,7 +1,0 @@
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/camera_app.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/edit_cache.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/rebuild_cache.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/list_install_components.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/install.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/install/local.dir
-/home/user/dotNetProject/cpp_connectCamera/camera_app/build/CMakeFiles/install/strip.dir

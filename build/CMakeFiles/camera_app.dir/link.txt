@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/camera_app.dir/main.cpp.o -o camera_app  -lusb-1.0 -ljpeg 
