@@ -12,7 +12,8 @@ this repository contain geek_szitman_supercamera (0329:2022) frame extraction
 ## How to use
 ```bash
 mkdir build && cd build && cmake .. && make
-./build/camera_app
+./camera_app
 ```
+above code will make 'extract_frame.jpg on your folder
 
 'camera_app' will need 'sudo' if you don't configure your camera permission
